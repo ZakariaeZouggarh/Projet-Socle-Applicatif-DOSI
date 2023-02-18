@@ -41,7 +41,7 @@ La page d'accueil affiche une liste d'utilisateurs extraits de l'API backend :
 ## _Ajouter Utilisateur_
 La page d'ajout d'utilisateur vous permet d'ajouter un nouvel utilisateur à la base de données :
 
-![](/home/dosi/Bureau/projet/images/add_user.png)
+![](https://github.com/ZakariaeZouggarh/Projet-Socle-Applicatif-DOSI/blob/main/images/add_user.png?raw=true)
 ## _Consulter Utilisateur_
 La page de consultation de l'utilisateur vous permet de consulter la totalité des informations d'un utilisateur :
 
