@@ -37,7 +37,7 @@ Voici quelques captures d'écran de l'application :
 ## _Page d'accueil_
 La page d'accueil affiche une liste d'utilisateurs extraits de l'API backend :
 
-![](/home/dosi/Bureau/projet/images/page_acceuil.png)
+![](https://github.com/ZakariaeZouggarh/Projet-Socle-Applicatif-DOSI/blob/main/images/page_acceuil.png?raw=true)
 ## _Ajouter Utilisateur_
 La page d'ajout d'utilisateur vous permet d'ajouter un nouvel utilisateur à la base de données :
 
@@ -45,10 +45,10 @@ La page d'ajout d'utilisateur vous permet d'ajouter un nouvel utilisateur à la 
 ## _Consulter Utilisateur_
 La page de consultation de l'utilisateur vous permet de consulter la totalité des informations d'un utilisateur :
 
-![](/home/dosi/Bureau/projet/images/view_user.png)
+![](https://github.com/ZakariaeZouggarh/Projet-Socle-Applicatif-DOSI/blob/main/images/view_user.png?raw=true)
 ## _Modifier Utilisateur_
 La page de modification de l'utilisateur vous permet de modifier les informations d'un utilisateur existant :
 
-![](/home/dosi/Bureau/projet/images/modif_user.png)
+![](https://github.com/ZakariaeZouggarh/Projet-Socle-Applicatif-DOSI/blob/main/images/modif_user.png?raw=true)
 # Contributeurs
 Ce projet a été construit par ZOUGGARH Zakariae.
